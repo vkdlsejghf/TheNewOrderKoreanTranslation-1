@@ -19,7 +19,7 @@ SGR_siemens_expository_text:0 "§W에른스트 폰 지멘스§!는 그의 동료
 
 #Frontscreen Metrics
 
-SGR_GDP_entry_1:0 "졸페어라인 GDP:  §W$§![?reich_GDP|2|W]§WB§! | [?zollvereinGDP_growth|%W2]"
+SGR_GDP_entry_1:0 "촐페라인 GDP:  §W$§![?reich_GDP|2|W]§WB§! | [?zollvereinGDP_growth|%W2]"
 SGR_slave_entry_scripted_loc:0 "[getSGRSlaveryStatus]"
 SGR_slave_entry_1:0 "노예: [?Reich_SlavesNum_m|3|R] §R백만 명§!"
 SGR_slavery_abolished_entry:0 "§G노예제 폐지§!"
@@ -35,19 +35,19 @@ SGR_econgui_member_overview:0 "MEMBER OVERVIEW"
 SGR_ZVmembers_GDP:0 "§G$[THIS.Get_GDP_topbar]§!"
 SGR_ZVMembers_text:0 "Members: [?ZV_Members^num|Y0]"
 
-SGR_econ_overview:0 "§Q졸페어라인§!은 형식상 §g아인하이츠팍트§!를 구성하는 대부분의 국가들과 지역들 사이의 공동 시장입니다. 사실상, 이는 독일인에 의해 점유되고 있는 거의 모든 동유럽 산업으로 구성된 §g독일§!의 경제권인데, 동유럽의 국가판무관들이 최근까지 사실상 독일의 식민 행정가 그 이상도 그 이하도 아니기 때문입니다. §R게네랄플란 오스트§!와 기타 바보같은 계획들은 동부 경제의 대부분을 파괴했습니다. 하지만 자원과 인력으로 이루어진 잠재력은 아직 남아있습니다. 노예제를 폐지하고 동부에 대규모 투자를 감행함으로써, §Q졸페어라인§!은 세계에서 가장 거대한 경제 블록 중 하나가 될 수 있을 것입니다.\n\n§g독일§!에게는 미래를 가질 자격이 있습니다."
+SGR_econ_overview:0 "§Q촐페라인§!은 형식상 §g아인하이츠팍트§!를 구성하는 대부분의 국가들과 지역들 사이의 공동 시장입니다. 사실상, 이는 독일인에 의해 점유되고 있는 거의 모든 동유럽 산업으로 구성된 §g독일§!의 경제권인데, 동유럽의 국가판무관들이 최근까지 사실상 독일의 식민 행정가 그 이상도 그 이하도 아니기 때문입니다. §R게네랄플란 오스트§!와 기타 바보같은 계획들은 동부 경제의 대부분을 파괴했습니다. 하지만 자원과 인력으로 이루어진 잠재력은 아직 남아있습니다. 노예제를 폐지하고 동부에 대규모 투자를 감행함으로써, §Q촐페라인§!은 세계에서 가장 거대한 경제 블록 중 하나가 될 수 있을 것입니다.\n\n§g독일§!에게는 미래를 가질 자격이 있습니다."
 
 #Zollverein Decision Category things
 
-SGR_Zollverein_members_investment_category:0 "졸페어라인"
-SGR_Zollverein_members_investment_category_desc:0 "\n\n\n\n\n\n§QTOTAL BUDGET: [?GER.ZollvereinBudget|+]§G백만 달러§!§!\n\n§Y할당:§! [?THIS.MemberZVBudget|+]§G백만 달러§!\n\n§O가용 예산:§! [?THIS.MemberSpentBudget|W]§W백만 달러§! / [?THIS.MemberZVBudget|+]§G백만 달러§!\n\n§Q졸페어라인§!은 유럽의 많은 국가들 간의 경제적 협력을 지향하는 거대하고 새로운 프로젝트입니다. §g독일의§! §G사인방§!에 의해 야심차게 추진된 이것은 경제적 협력과 상호 안정 확보를 실행 과정에서 확실히 하며, 공통의 단일한 시장 아래에 대륙을 통합하려 합니다."
+SGR_Zollverein_members_investment_category:0 "촐페라인"
+SGR_Zollverein_members_investment_category_desc:0 "\n\n\n\n\n\n§QTOTAL BUDGET: [?GER.ZollvereinBudget|+]§G백만 달러§!§!\n\n§Y할당:§! [?THIS.MemberZVBudget|+]§G백만 달러§!\n\n§O가용 예산:§! [?THIS.MemberSpentBudget|W]§W백만 달러§! / [?THIS.MemberZVBudget|+]§G백만 달러§!\n\n§Q촐페라인§!은 유럽의 많은 국가들 간의 경제적 협력을 지향하는 거대하고 새로운 프로젝트입니다. §g독일의§! §G사인방§!에 의해 야심차게 추진된 이것은 경제적 협력과 상호 안정 확보를 실행 과정에서 확실히 하며, 공통의 단일한 시장 아래에 대륙을 통합하려 합니다."
 
 zv_quarterly_budget_tt:0 "§Q총 예산§!과 §Y할당량§!은 업데이트 될 것입니다."
 
 # Oil Crisis #
 
 SGR_ZV_debt_reduction:0 "빚 상환"
-SGR_ZV_debt_reduction_desc:0 "우리의 산더미같은 부채 문제에 대하여 가장 우아한 해결책은 아닐테지만, 졸페어라인의 예산은 그럼에도 불구하고 우리의 국채 상환금을 제공할 원천의 역할을 할 수 있고, 할 것입니다."
+SGR_ZV_debt_reduction_desc:0 "우리의 산더미같은 부채 문제에 대하여 가장 우아한 해결책은 아닐테지만, 촐페라인의 예산은 그럼에도 불구하고 우리의 국채 상환금을 제공할 원천의 역할을 할 수 있고, 할 것입니다."
 SGR_ZV_debt_reduction_cost:0 "§Y1억 5천만§! £GFX_dollar_sign"
 SGR_ZV_debt_reduction_cost_blocked:0 "§R1억 5천만§! £GFX_dollar_sign"
 SGR_ZV_debt_reduction_tt:0 "§W§R채무§! 및 §R이율§!은 각각 §Y2억 달러§! 그리고 §Y1.5%§!로 감소할 것입니다.§!"
@@ -76,36 +76,36 @@ SGR_ZV_close_special_investments:0 "§T특별 프로젝트 결정 감추기§!"
 SGR_ZV_close_special_investments_desc:0 "클릭하여 특별 프로젝트 결정을 감춥니다."
 
 SGR_ZV_civilian_investment:0 "민간 투자"
-SGR_ZV_civilian_investment_desc:0 "유럽의 새로운 경제동맹인 졸페어라인의 예산을 사용하여, 우리는 산업에 대하여 추가적인 자금을 제공할 것이며 경제가 대중들을 확실히 만족시킬 정도로 민간 상품의 상태를 개선하는 데에 집중할 것입니다."
+SGR_ZV_civilian_investment_desc:0 "유럽의 새로운 경제동맹인 촐페라인의 예산을 사용하여, 우리는 산업에 대하여 추가적인 자금을 제공할 것이며 경제가 대중들을 확실히 만족시킬 정도로 민간 상품의 상태를 개선하는 데에 집중할 것입니다."
 SGR_ZV_civilian_investment_cost:0 "§Y1억 5천만§! £GFX_dollar_sign"
 SGR_ZV_civilian_investment_cost_blocked:0 "§R1억 5천만§! £GFX_dollar_sign"
 
 SGR_ZV_military_investment:0 "군수 투자"
-SGR_ZV_military_investment_desc:0 "많은 졸페어라인 국가들의 보호 아래에서조차, 우리는 여전히 능력있는 군대를 필요로 합니다. 그 점을 생각해보면 군사적 능력을 증대시키기 위한 추가적인 투자는 졸페어라인에게는 유용한 부수적인 효과를 불러올 것입니다."
+SGR_ZV_military_investment_desc:0 "많은 촐페라인 국가들의 보호 아래에서조차, 우리는 여전히 능력있는 군대를 필요로 합니다. 그 점을 생각해보면 군사적 능력을 증대시키기 위한 추가적인 투자는 촐페라인에게는 유용한 부수적인 효과를 불러올 것입니다."
 
 SGR_ZV_infrastructure_investment:0 "기반시설 투자"
-SGR_ZV_infrastructure_investment_desc:0 "모든 국가의 심장은 철도의 연결과 도로의 콘크리트가 얼마나 강하느냐에 따라 박동을 합니다. 졸페어라인이 추진하는 새로운 투자 프로그램과 함께 우리는 우리나라의 기반시설이 강화될 수 있도록 할 것입니다. "
+SGR_ZV_infrastructure_investment_desc:0 "모든 국가의 심장은 철도의 연결과 도로의 콘크리트가 얼마나 강하느냐에 따라 박동을 합니다. 촐페라인이 추진하는 새로운 투자 프로그램과 함께 우리는 우리나라의 기반시설이 강화될 수 있도록 할 것입니다. "
 SGR_ZV_infrastructure_investment_cost:0 "§Y1억§! £GFX_dollar_sign"
 SGR_ZV_infrastructure_investment_cost_blocked:0 "§R1억§! £GFX_dollar_sign"
 
 SGR_ZV_synthoil_investment:0 "합성석유투자"
-SGR_ZV_synthoil_investment_desc:0 "우리는 유럽 바깥의 다른 세계에 완전히 의존할 수 없습니다. 따라서 졸페어라인으로부터 빼온 자금을 합성석유 공급의 확장에 투자하고 공정을 다듬는데 노력을 더욱 많이 기울이는 것은 훌륭한 생각입니다. 자립경제는 성취되기 어려운 일이지만 석유로 인해 우리가 겪게 될 미래의 모든 문제들을 생각한다면 쉬운 일입니다."
+SGR_ZV_synthoil_investment_desc:0 "우리는 유럽 바깥의 다른 세계에 완전히 의존할 수 없습니다. 따라서 촐페라인으로부터 빼온 자금을 합성석유 공급의 확장에 투자하고 공정을 다듬는데 노력을 더욱 많이 기울이는 것은 훌륭한 생각입니다. 자립경제는 성취되기 어려운 일이지만 석유로 인해 우리가 겪게 될 미래의 모든 문제들을 생각한다면 쉬운 일입니다."
 SGR_ZV_synthoil_investment_desc_cost_blocked:0 "§R2억 5천§! £GFX_dollar_sign"
 SGR_ZV_synthoil_investment_desc_cost_blocked:0 "§R2억 5천§! £GFX_dollar_sign"
 
 SGR_ZV_education_investment:0 "교육 투자"
-SGR_ZV_education_investment_desc:0 "국가의 수립에 관하여 중요한 것이 있다면, 국민들이 얼마나 글을 잘 읽고 유능한지일 것입니다. 교육에 집중하는 것이 중요하긴 하지만, 졸페어라인은 학교를 다시 열고 국가 커리큘럼을 시험하기 위한 과정을 더욱 쉽게 만들었습니다. 다른 교육 개혁 보다도 말입니다."
+SGR_ZV_education_investment_desc:0 "국가의 수립에 관하여 중요한 것이 있다면, 국민들이 얼마나 글을 잘 읽고 유능한지일 것입니다. 교육에 집중하는 것이 중요하긴 하지만, 촐페라인은 학교를 다시 열고 국가 커리큘럼을 시험하기 위한 과정을 더욱 쉽게 만들었습니다. 다른 교육 개혁 보다도 말입니다."
 SGR_ZV_education_investment_cost_blocked:0 "§R5천만§! £GFX_dollar_sign"
 SGR_ZV_education_investment_cost_blocked:0 "§R5천만§! £GFX_dollar_sign"
 
 SGR_ZV_poverty_investment:0 "빈곤 절감 계획"
-SGR_ZV_poverty_investment_desc:0 "자신의 급료로 겨우겨우 먹고 사는 사람들이나, 그냥 길가에 나앉거나 살아남을 수 있는 돈이라도 구걸하는 사람들은 정말 약한 자들입니다. 그들을 다시 골라내서 사회에 복귀할 수 있도록 해야 합니다. 졸페어라인의 도움으로 우리는 길가를 깨끗이 하는 중요한 시도를 해내고 더 많은 사람들이 마음 속의 불빛을 지켜낼 수 있도록 할 것입니다."
+SGR_ZV_poverty_investment_desc:0 "자신의 급료로 겨우겨우 먹고 사는 사람들이나, 그냥 길가에 나앉거나 살아남을 수 있는 돈이라도 구걸하는 사람들은 정말 약한 자들입니다. 그들을 다시 골라내서 사회에 복귀할 수 있도록 해야 합니다. 촐페라인의 도움으로 우리는 길가를 깨끗이 하는 중요한 시도를 해내고 더 많은 사람들이 마음 속의 불빛을 지켜낼 수 있도록 할 것입니다."
 
 SGR_ZV_workers_investment:0 "무역가 육성 계획"
-SGR_ZV_workers_investment_desc:0 "우리 공업은 다재다능합니다. 그리고 이러한 공업의 기초가 확실히 세워지도록 하는 데에는 국가의 젊은이들에게 접근하는 것보다 더 좋은 방법이 없습니다. 이 면에서 졸페어라인은 유용합니다. 여기서 약간의 자금을 빼돌림으로써 우리는 밝고 새로운 사람들을 흔히 연구되지 않는 분야로 밀어넣으려는 계획을 세울 수 있을 것입니다. 그리하여 우리의 경제를 다양화하고 강화시킬 수 있습니다."
+SGR_ZV_workers_investment_desc:0 "우리 공업은 다재다능합니다. 그리고 이러한 공업의 기초가 확실히 세워지도록 하는 데에는 국가의 젊은이들에게 접근하는 것보다 더 좋은 방법이 없습니다. 이 면에서 촐페라인은 유용합니다. 여기서 약간의 자금을 빼돌림으로써 우리는 밝고 새로운 사람들을 흔히 연구되지 않는 분야로 밀어넣으려는 계획을 세울 수 있을 것입니다. 그리하여 우리의 경제를 다양화하고 강화시킬 수 있습니다."
 
 SGR_Zollverein_Quarterly_Update:0 "분기별 예산 업데이트"
-SGR_Zollverein_Quarterly_Update_desc:0 "졸페어라인의 국가별 예산과 할당은 분기마다 업데이트되어 새로운 투자가 가능해집니다."
+SGR_Zollverein_Quarterly_Update_desc:0 "촐페라인의 국가별 예산과 할당은 분기마다 업데이트되어 새로운 투자가 가능해집니다."
 
 
 #Economic GUI Costs & Tasks
@@ -122,8 +122,8 @@ SGR_task_weaken_tt:0 "국방군의 도움을 받으며 §Y국방경제 지도자
 SGR_task_antitrust:0 "§Y반독점 명령§!"
 SGR_task_antitrust_tt:0 "일단 지역 내에서 §Y국방경제 지도자의 힘§!£GFX_megacorp!이 §Y0%§!에 도달하면, §G정부§!는 지역 내에서 그들로부터 경제적 통제력을 뺏는 법령을 선포할 수 있습니다."
 SGR_task_antitrust_reward:0 "이 지역에서 §Y국방경제 지도자§!로부터 통제력을 뺏어오는 것은 다음과 같은 보너스를 가져옵니다: \n\n[getSGRStatesBonusTooltip]"
-SGR_task_antitrust_ger_tt:0 "§Y졸페어라인 위원회 지도국§! 소비재: §Y-2%§!"
-SGR_task_antitrust_notger_tt:0 "§Y66%§! §T확률§!:\n    §Y2개§!의 §T무작위 주의 민간 공장§!\n    §Y+1.5%§! §T지역 GDP 성장률§!\n\n§Y34%§! §T확률§!:\n    §Y4개§!의 §T무작위 주의 추가적 건설 슬롯§!\n    §Y+1.5%§! §T지역 GDP 성장률§!"
+SGR_task_antitrust_ger_tt:0 "§Y촐페라인 위원회 지도국§! 소비재 공장: §Y-2%§!"
+SGR_task_antitrust_notger_tt:0 "§Y66%§! §T확률§!:\n    §Y2개§!의 §T무작위 주의 민간공장§!\n    §Y+1.5%§! §T지역 GDP 성장률§!\n\n§Y34%§! §T확률§!:\n    §Y4개§!의 §T무작위 주의 추가적 건설 슬롯§!\n    §Y+1.5%§! §T지역 GDP 성장률§!"
 
 SGR_task_cost1:0 "§Y5§!£political_power_texticon  | §Y10M§!£GFX_dollar_sign"
 SGR_task_cost2:0 "§Y10§!£political_power_texticon  | §Y30§!£GFX_command_power"
@@ -131,9 +131,9 @@ SGR_task_cost3:0 "§Y25§!£political_power_texticon  | §Y0%§!£GFX_megacorp!"
 
 #Frontscreen Tolltips
 
-SGR_GDP_entry_1_tt:0 "§Q졸페어라인의 GDP§!는 그 경제적인 부에 상응하며 현재 §Y$§![?reich_GDP|2|Y]§YB§!이고, 그 중 §g독일의§! 몫은 §Y$§![?displayGermanyGDP|2|Y]§YB§!입니다. 이는 성장률이 [?zollvereinGDP_growth|%Y2]임을 의미합니다.\n\n국제적인 협상에서, 높은 §Q졸페어라인 GDP§!는 투자자들과 비즈니스 파트너들에게 §g라이히§!를 더 매력적으로 만들 것입니다. GDP 성장률은 현재 [?displayCivPercentage|%G2]인, 증가하는 §G숙련된 인력§! 비율과 §R노예제§!의 축소 및 궁극적인 폐지로부터 직접적인 영향을 받고 있습니다."
-SGR_slave_entry_1_tt:0 "§R노예제§!는 §g라이히의§! 암이며 [?Reich_SlavesNum_m|3|R] §R백만 명§!의 노예화된 사람들을 포함하고 있습니다.\n\n본래 제2차 세계대전에서 승리하기 위해 도입되었으며 엘리트 계급의 정신나간 희망을 추구하는 체제의 졸렬한 모방품인 이는, 결국에는 제 잇속을 채우려는 §H국방경제 지도자§!들에게 강탈당할 뿐이었습니다. 국제 관계부터 경제까지, §R노예제§!의 폐지는 §g독일§!과 §Q졸페어라인§! 모두에게 이익만을 줄 수 있습니다."
-SGR_workforce_entry_1_tt:0 "§G숙련된 인력§!은 §g독일§!의 숙련 노동자들 중 민간 인력을 의미하며 현재 [?displayCurrentWorkforce|4|G] §G백만 명§!이자 [?displayTheoreticalWorkforce|4|G] §G백만 명§!의 이론적으로 이용 가능한 인력 중 [?displayCivPercentage|%G]입니다.\n\n§G숙련된 인력§!은 §g라이히§!에서 무역가 육성 계획을 지원함으로써 증가합니다. 동시에 §Q졸페어라인§!의 §R노예 노동력§!의 수를 줄여야 합니다."
+SGR_GDP_entry_1_tt:0 "§Q촐페라인의 GDP§!는 그 경제적인 부에 상응하며 현재 §Y$§![?reich_GDP|2|Y]§YB§!이고, 그 중 §g독일의§! 몫은 §Y$§![?displayGermanyGDP|2|Y]§YB§!입니다. 이는 성장률이 [?zollvereinGDP_growth|%Y2]임을 의미합니다.\n\n국제적인 협상에서, 높은 §Q촐페라인 GDP§!는 투자자들과 비즈니스 파트너들에게 §g라이히§!를 더 매력적으로 만들 것입니다. GDP 성장률은 현재 [?displayCivPercentage|%G2]인, 증가하는 §G숙련된 인력§! 비율과 §R노예제§!의 축소 및 궁극적인 폐지로부터 직접적인 영향을 받고 있습니다."
+SGR_slave_entry_1_tt:0 "§R노예제§!는 §g라이히의§! 암이며 [?Reich_SlavesNum_m|3|R] §R백만 명§!의 노예화된 사람들을 포함하고 있습니다.\n\n본래 제2차 세계대전에서 승리하기 위해 도입되었으며 엘리트 계급의 정신나간 희망을 추구하는 체제의 졸렬한 모방품인 이는, 결국에는 제 잇속을 채우려는 §H국방경제 지도자§!들에게 강탈당할 뿐이었습니다. 국제 관계부터 경제까지, §R노예제§!의 폐지는 §g독일§!과 §Q촐페라인§! 모두에게 이익만을 줄 수 있습니다."
+SGR_workforce_entry_1_tt:0 "§G숙련된 인력§!은 §g독일§!의 숙련 노동자들 중 민간 인력을 의미하며 현재 [?displayCurrentWorkforce|4|G] §G백만 명§!이자 [?displayTheoreticalWorkforce|4|G] §G백만 명§!의 이론적으로 이용 가능한 인력 중 [?displayCivPercentage|%G]입니다.\n\n§G숙련된 인력§!은 §g라이히§!에서 무역가 육성 계획을 지원함으로써 증가합니다. 동시에 §Q촐페라인§!의 §R노예 노동력§!의 수를 줄여야 합니다."
 
 
 #Decision category stuff
@@ -178,28 +178,28 @@ SGR_trigger_siemens:0 "§W우리가 행동을 취하기 위해서는 §T지멘�
 SGR_all_resources:0 "§W우리는 §RGDP 성장률§!의 희생을 감수하고 동부 지역들에 매장된 §G모든 자원들§!에 접근할 수 있게 될 것입니다.§!"
 SGR_some_resources:0 "§W우리는 §GGDP 성장률§!을 높이면서 동부 지역들에 매장된 §R일부§! 자원들에만 접근할 수 있게 될 것입니다.§!"
 
-SGR_wealth_for_all:0 "§W에르하르트의 개혁 과정에서 우리가 얻었던 잉여 부는 다시금 §Q졸페어라인§!에 투자될 것입니다. 이는 §G여러 구성국들의 GDP 성장률을 증가시킬 것입니다.§!§!"
+SGR_wealth_for_all:0 "§W에르하르트의 개혁 과정에서 우리가 얻었던 잉여 부는 다시금 §Q촐페라인§!에 투자될 것입니다. 이는 §G여러 구성국들의 GDP 성장률을 증가시킬 것입니다.§!§!"
 SGR_wealth_for_us:0 "§W에르하르트의 개혁 과정에서 우리가 얻었던 잉여 부는 다시금 §g독일§!에 투자될 것입니다. §G이는 라이히의 GDP 성장률을 증가시킬 것입니다.§!§!"
 
 #Ideas
 
 SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§!이(가) §QZollverein§!에 가입함."
 
-SGR_zollverein_members_scriptedloc_bloc:0 "\n졸페어라인 예산 할당: §G$§![?FROM.MemberZVBudget|+]§G백만 달러§!"
+SGR_zollverein_members_scriptedloc_bloc:0 "\n촐페라인 예산 할당: §G$§![?FROM.MemberZVBudget|+]§G백만 달러§!"
 
-SGR_zollverein_scriptedloc_bloc:0 "\n총 졸페어라인 예산: §G$§![?ZollvereinBudget|+]§G백만 달러§!\n졸페어라인 예산 지불: 연 수입의 [?ZollvereinPayments|0Y%]\n졸페어라인에 대한 예산 지불금: [?GER.SGRZVfactor|0+%]"
+SGR_zollverein_scriptedloc_bloc:0 "\n총 촐페라인 예산: §G$§![?ZollvereinBudget|+]§G백만 달러§!\n촐페라인 예산 지불: 연 수입의 [?ZollvereinPayments|0Y%]\n촐페라인에 대한 예산 지불금: [?GER.SGRZVfactor|0+%]"
 
-SGR_zollverein_germany:0 "졸페어라인 지도국"
-SGR_zollverein_germany_desc:0 "§D시장으로 가는 자원: [?SGR_export_factor|0Y%]\n소비재 공장: [?SGR_consumer_goods|1Y%][getZollvereinIdeaBlock] \n--------------\n§!졸페어라인은 구성국들 사이의 공동 시장이자 관세 동맹입니다. 이는 구식이고 결함이 있는 유럽대륙 블록 개념을 대신하는 것으로, 독일이 유럽의 헤게모니를 계속해서 쥘 수 있게 하는 수단입니다. 비록 당장은 바라건대 피가 덜 흐르는 방식일지라도 말입니다."
+SGR_zollverein_germany:0 "촐페라인 지도국"
+SGR_zollverein_germany_desc:0 "§D시장으로 가는 자원: [?SGR_export_factor|0Y%]\n소비재 공장: [?SGR_consumer_goods|1Y%][getZollvereinIdeaBlock] \n--------------\n§!촐페라인은 구성국들 사이의 공동 시장이자 관세 동맹입니다. 이는 구식이고 결함이 있는 유럽대륙 블록 개념을 대신하는 것으로, 독일이 유럽의 헤게모니를 계속해서 쥘 수 있게 하는 수단입니다. 비록 당장은 바라건대 피가 덜 흐르는 방식일지라도 말입니다."
 
-SGR_zollverein_basic:0 "졸페어라인 회원국"
-SGR_zollverein_basic_desc:0 "§D정치력 획득 요인: [?THIS.ZV_pp_gain|0+%]\n소비재 공장: [?THIS.ZV_consumer_goods|1Y%]\n생산 효율성 획득 요인: [?THIS.ZV_production_gain|1+%][getZollvereinMembersIdeaBlock] \n--------------\n§!졸페어라인은 구성국들 사이의 공동 시장이자 관세 동맹입니다. 이는 구식이고 결함이 있는 유럽대륙 블록 개념을 대신하는 것으로, 독일이 유럽의 헤게모니를 계속해서 쥘 수 있게 하는 수단입니다. 비록 당장은 바라건대 피가 덜 흐르는 방식일지라도 말입니다."
+SGR_zollverein_basic:0 "촐페라인 회원국"
+SGR_zollverein_basic_desc:0 "§D정치력 획득 요인: [?THIS.ZV_pp_gain|0+%]\n소비재 공장: [?THIS.ZV_consumer_goods|1Y%]\n생산 효율성 획득 요인: [?THIS.ZV_production_gain|1+%][getZollvereinMembersIdeaBlock] \n--------------\n§!촐페라인은 구성국들 사이의 공동 시장이자 관세 동맹입니다. 이는 구식이고 결함이 있는 유럽대륙 블록 개념을 대신하는 것으로, 독일이 유럽의 헤게모니를 계속해서 쥘 수 있게 하는 수단입니다. 비록 당장은 바라건대 피가 덜 흐르는 방식일지라도 말입니다."
 
-SGR_zollverein_reich:0 "독일의 졸페어리인"
-SGR_zollverein_reich_desc:0 "졸페어라인의 독일 중심 관료주의는 대체로 유지되어 왔으며, 어떤 면에서는 심지어 강화되었습니다. 따라서 독일 경제와 동유럽 경제를 구분하는 일은 앞으로도 거의 없을 것입니다. 같고, 또 같을 것 입니다."
+SGR_zollverein_reich:0 "독일의 촐페라인"
+SGR_zollverein_reich_desc:0 "촐페라인의 독일 중심 관료주의는 대체로 유지되어 왔으며, 어떤 면에서는 심지어 강화되었습니다. 따라서 독일 경제와 동유럽 경제를 구분하는 일은 앞으로도 거의 없을 것입니다. 같고, 또 같을 것 입니다."
 
-SGR_zollverein_common:0 "유럽의 졸페어라인"
-SGR_zollverein_common_desc:0 "졸페어라인의 독일 중심 관료주의는 상당히 완화되었습니다. 나치 경제 방향주의는 개혁파와 동부경제가 주도하는 풀뿌리 협력에 끈질기게 길을 내주면서 지역 교역이 번창하는 결과를 낳았습니다.
+SGR_zollverein_common:0 "유럽의 촐페라인"
+SGR_zollverein_common_desc:0 "촐페라인의 독일 중심 관료주의는 상당히 완화되었습니다. 나치 경제 방향주의는 개혁파와 동부경제가 주도하는 풀뿌리 협력에 끈질기게 길을 내주면서 지역 교역이 번창하는 결과를 낳았습니다.
 
 SGR_siemenswelt:0 "지멘스의 세상"
 SGR_siemenswelt_desc:0 "지멘스는 독일의 선구적인 기술 회사이며 동시에 국제적으로 중요한 위치를 가지고 있는 몇 안 되는 회사들 중 하나이기도 합니다. 그들을 우리 편으로 끌어들이는 것은 우리가 연구 및 발전을 이룩하는데 큰 도움이 될 것입니다."
@@ -215,9 +215,9 @@ SGR_daimler_slashed_desc:0 "다임러-벤츠의 자산 대부분이 압류되었
 
 SGR_made_in_germany_reformist_tt:0 "해외 무역 지불금: §G+15%§!"
 SGR_made_in_germany_conservative_tt:0 "해외 무역 지불금: §G+10%§!"
-SGR_zollverein_common_tt:0 "졸페어라인 GDP 획득: §G+20%§!"
-SGR_zollverein_reich_tt:0 "졸페어라인 GDP 흭득: §G+10%§!"
-SGR_zollverein_basic_tt:0 "GDP 성장률: §G+1.5%§!\n졸페어라인 지불금: §R10%§! 연간 수익"
+SGR_zollverein_common_tt:0 "촐페라인 GDP 획득: §G+20%§!"
+SGR_zollverein_reich_tt:0 "촐페라인 GDP 흭득: §G+10%§!"
+SGR_zollverein_basic_tt:0 "GDP 성장률: §G+1.5%§!\n촐페라인 지불금: §R10%§! 연간 수익"
 
 SGR_made_in_germany_reformist:0 "독일산"
 SGR_made_in_germany_reformist_desc:0 "고된 노동과 수백만 달러를 소모함으로써, 독일은 마침내 경제를 세울 만한 기반을 갖게 되었습니다. 현재 우리의 수치들은 라이히가 진정 가지고 있는 경제적인 잠재력과 여전히 거리가 멉니다. 하지만 이건 시작일 뿐입니다. 독일이 절박히 필요로 했던 두 번째 기회입니다. 우리가 이름을 되찾는다면 외국인들이 기꺼이 우리의 상품에 대한 대가로 돈을 지불하려 할 것이고 이는 천천히, 하지만 확실히 증대할 것입니다."
@@ -236,8 +236,8 @@ SGR_daimler_button_tt:0 "회사의 힘이 §G0%§!이고 §Y인수§! 중점이 
 
 #Scripted Effects Tooltips
 
-SGR_europes_dreams_tt:0 "§Y졸페어라인 예산에 대한 지불금은 §G5%§! 증가할 것인 반면, 독일 예산에 대한 지불금은 §R10%§! 감소할 것입니다§!."
-SGR_reichs_needs_tt:0 "§Y졸페어라인 예산에 대한 지불금은 §G5%§! 증가할 것이고, 독일 예산에 대한 지불금은 §G5%§! 증가할 것입니다§!."
+SGR_europes_dreams_tt:0 "§Y촐페라인 예산에 대한 지불금은 §G5%§! 증가할 것인 반면, 독일 예산에 대한 지불금은 §R10%§! 감소할 것입니다§!."
+SGR_reichs_needs_tt:0 "§Y촐페라인 예산에 대한 지불금은 §G5%§! 증가할 것이고, 독일 예산에 대한 지불금은 §G5%§! 증가할 것입니다§!."
 
 SGR_erhard_plan_tt:0 "§G에르하르트의 계획이 가장 효과가 좋기 위해서는 가능한 빨리 시작되고 진행되어야 합니다.§!\n"
 SGR_skilled_labour_increase_small_tt:0 "§G숙련된 인력은 이로부터 약간의 이익을 얻을 것입니다.§!\n"
